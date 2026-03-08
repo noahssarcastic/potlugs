@@ -672,8 +672,8 @@
 		(embedded_fonts no)
 	)
 	(gr_line
-		(start 154.25 108.25)
-		(end 154.25 95.25)
+		(start 155.25 109.25)
+		(end 155.25 94.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -683,7 +683,7 @@
 	)
 	(gr_line
 		(start 145.25 109.25)
-		(end 153.25 109.25)
+		(end 155.25 109.25)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -702,34 +702,14 @@
 		(uuid "6a01f193-918e-4ea7-bd4d-337d6c36574a")
 	)
 	(gr_line
-		(start 153.25 94.25)
-		(end 154.25 95.25)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9ff4c817-46c0-49c0-995d-c1fca82378df")
-	)
-	(gr_line
 		(start 145.25 94.25)
-		(end 153.25 94.25)
+		(end 155.25 94.25)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "c5b61c1b-40d2-4868-aa42-bcda6a1ed899")
-	)
-	(gr_line
-		(start 153.25 109.25)
-		(end 154.25 108.25)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e6a8b651-9f64-4f38-8eb1-287736aa5f51")
 	)
 	(gr_text "NOAH \nINIGUEZ"
 		(at 154 108 0)
