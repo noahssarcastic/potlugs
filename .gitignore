@@ -40,5 +40,5 @@ fp-info-cache
 *.kicad_prl
 
 # Gerbers
-gerbers/
-gerbers/*
+**/gerbers/*
+!**/.gitkeep
